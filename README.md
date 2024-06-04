@@ -1,6 +1,8 @@
+![giraffe](https://github.com/Ableboy/Image-Prediction/assets/117966877/da9e6509-36ed-47d7-8e04-6c4b73771157)
+
 # Description
 
-Dive into the power of AI with this project that leverages the ImageAI library for image classification. Utilizing a pre-trained MobileNetV2 model, this project demonstrates how to classify images and predict objects with high accuracy.
+Dive into the power of AI with this project that leverages the ImageAI library for image classification. Utilizing a pre-trained MobileNetV2 model, this project demonstrates how to accurately classify images and predict objects.
 
 Experience the power of AI with this state-of-the-art image classification project. Whether you're a developer, researcher, or AI enthusiast, this project will provide a solid foundation for implementing advanced image analysis in your applications. Happy coding!
 
