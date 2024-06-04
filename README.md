@@ -2,6 +2,8 @@
 
 Dive into the power of AI with this project that leverages the ImageAI library for image classification. Utilizing a pre-trained MobileNetV2 model, this project demonstrates how to classify images and predict objects with high accuracy.
 
+Experience the power of AI with this state-of-the-art image classification project. Whether you're a developer, researcher, or AI enthusiast, this project will provide a solid foundation for implementing advanced image analysis in your applications. Happy coding!
+
 ## Libraries Used
 - ImageAI
 - OS
@@ -64,6 +66,7 @@ pip install imageai
 - Run the script to see the classification results.
 
 ## Contributing
+
 Contributions to this image classification project are welcome! To contribute, please follow these steps:
 
 1. Fork the Repository: Click the "Fork" button at the top right of this repository's page on GitHub.
@@ -79,6 +82,7 @@ git clone https://github.com/Ableboy/Image-Prediction.git
 git checkout -b feature-name
 ```
 4. Make Your Changes: Make your changes in the code.
+
 5. Commit Your Changes: Commit your changes with a clear message:
 
 ```bash
@@ -94,6 +98,3 @@ git push origin feature-name
 ## License
 
 This project is licensed under the MIT License.
-
-
-Experience the power of AI with this state-of-the-art image classification project. Whether you're a developer, researcher, or AI enthusiast, this project will provide a solid foundation for implementing advanced image analysis in your applications. Happy coding!
